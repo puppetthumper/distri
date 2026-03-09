@@ -1,3 +1,2 @@
-‎ ‎   ‎            ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ljpyzkz4q3bztmnl4i4lpg34ja&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=f2a400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![more info](https://files.catbox.moe/hionb8.png)
